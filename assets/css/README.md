@@ -1,0 +1,8 @@
+-More descriptive title
+-Created sectons, articles and asides to format the page better to SEO page ranking
+-Added alt to imgs
+-Changed added fig to
+-Changed almost all of the divs
+-Added id styles together in CSS
+-Made div to main
+-ID became classes
